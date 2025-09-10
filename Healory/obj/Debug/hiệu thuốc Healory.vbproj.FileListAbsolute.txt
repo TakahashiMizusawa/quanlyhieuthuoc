@@ -1,0 +1,46 @@
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\bin\Debug\hiệu thuốc Healory.exe.config
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\bin\Debug\hiệu thuốc Healory.exe
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\bin\Debug\hiệu thuốc Healory.pdb
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\bin\Debug\hiệu thuốc Healory.xml
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu thuốc Healory.vbproj.AssemblyReference.cache
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.dangky.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.dangnhap.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.main.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.Resources.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu thuốc Healory.vbproj.GenerateResource.cache
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu thuốc Healory.vbproj.CoreCompileInputs.cache
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu thuốc Healory.exe
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu thuốc Healory.xml
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu thuốc Healory.pdb
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.suathongtin.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.thuoc.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.sell.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.hoadon.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.themthuoc.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.danhsachnhanvien.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.themnhanvien.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.calam.resources
+C:\Users\nguyenthanhnam\Desktop\hiệu thuốc Healory\obj\Debug\hiệu_thuốc_Healory.líchuca.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\bin\Debug\hiệu thuốc Healory.exe.config
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\bin\Debug\hiệu thuốc Healory.exe
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\bin\Debug\hiệu thuốc Healory.pdb
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\bin\Debug\hiệu thuốc Healory.xml
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu thuốc Healory.vbproj.AssemblyReference.cache
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.calam.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.danhsachnhanvien.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.hoadon.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.líchuca.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.sell.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.dangky.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.dangnhap.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.main.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.Resources.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.themnhanvien.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.themthuoc.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.thuoc.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu_thuốc_Healory.suathongtin.resources
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu thuốc Healory.vbproj.GenerateResource.cache
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu thuốc Healory.vbproj.CoreCompileInputs.cache
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu thuốc Healory.exe
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu thuốc Healory.xml
+C:\Users\nguyenthanhnam\Desktop\Nhóm 3\Healory\obj\Debug\hiệu thuốc Healory.pdb
